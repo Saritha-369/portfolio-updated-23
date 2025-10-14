@@ -119,6 +119,7 @@ a {
 .image img {
   width: 80%;
   animation: zoom 6s linear infinite;
+      border-radius: 20%;
 }
 @-webkit-keyframes zoom {
   0% {
@@ -301,3 +302,5 @@ a:hover svg {
     width: 45px !important;
   }
 }
+
+
